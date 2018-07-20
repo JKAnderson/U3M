@@ -15375,4 +15375,5 @@
 /sound/fdp_xm53.fsb
 /sound/fdp_xm53.itl
 /sound/fdp_xm54.fev
+/sound/fdp_xm54.fsb
 /sound/fdp_xm54.itl
