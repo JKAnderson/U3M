@@ -59,7 +59,7 @@ namespace U3M
 
         private async void FormMain_Load(object sender, EventArgs e)
         {
-            Text = "U3M Beta " + Application.ProductVersion;
+            Text = "U3M " + Application.ProductVersion;
             enableControls(true);
 
             Location = settings.WindowLocation;
