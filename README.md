@@ -1,3 +1,6 @@
+# U3M Has Moved
+U3M is now [UXM](https://github.com/JKAnderson/UXM). Please go to that page instead.  
+Old readme proceeds below.
 
 # U3M
 A tool for Dark Souls 3 to enable file modding by unpacking .bdt archives and enabling loose file loading.  
